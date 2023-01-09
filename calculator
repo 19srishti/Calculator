@@ -1,4 +1,4 @@
-
+//program for a simple calculator
 import 'package:flutter/material.dart';
 void main() {
   runApp(myApp());
